@@ -28,10 +28,15 @@ Responsive scaling for smaller screens — horse size, lantern size, and scene h
 📁 Project Structure
 Code
 /
+
 ├── index.html      # Main HTML structure
+
 ├── style.css       # All styling, animations, layout
+
 ├── script.js       # Audio controls and interactivity
+
 ├── horse.png       # Horse illustration
+
 └── cny-song.mp3    # Background music (looped)
 
 🚀 How to Run
